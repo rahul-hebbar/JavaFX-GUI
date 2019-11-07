@@ -1,0 +1,36 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+#temprt{
+	-fx-background-color:white;
+	-fx-background-radius:10px;
+}
+
+#root{
+	-fx-background-color:grey;
+}
+#temptx{
+	-fx-font-size:20px;
+	-fx-fill:darkblue;
+}
+#tittx{
+	-fx-font-size:30px;
+	-fx-fill:darkblue;
+}
+.button{
+	-fx-pref-height:25px;
+	-fx-pref-width:150px;
+}
+#latlab{
+	-fx-border-color:darkcyan;
+	-fx-background-color:white;
+	-fx-font-size:20px;
+	-fx-text-fill:blue;
+	-fx-border-radius:10px;
+}
+#paklab{
+	-fx-border-color:darkcyan;
+	-fx-background-color:white;
+	-fx-font-size:12px;
+	-fx-text-fill:blue;
+	-fx-border-radius:10px;
+}
+

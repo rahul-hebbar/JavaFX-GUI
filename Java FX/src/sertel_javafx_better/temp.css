@@ -1,0 +1,8 @@
+.button{
+	-fx-text-fill:blue ;
+	-fx-font-size:20px ;
+}
+#porttx{
+	-fx-font-size:20px;
+	-fx-fill:darkblue;
+}
